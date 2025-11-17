@@ -588,3 +588,36 @@ body {
     scale: 1;
   }
 }
+
+
+/* media */
+@media screen and (min-width: 1440px) {
+  
+  .intro h2{
+    padding-top: 250px;
+  }
+
+  .about .container{
+    height: 700px;
+  }
+
+  #rfr{
+
+    padding-top: 300px;
+
+    li{
+      font-size: 1.1rem;
+    }
+  }
+
+  .analysis{
+
+    h2{
+      font-size: 5rem;
+    }
+
+    p{
+      font-size: 1.2rem;
+    }
+  }
+}
