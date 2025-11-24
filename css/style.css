@@ -75,6 +75,9 @@ body {
     animation: slideleft 2.5s ease;
   }
 
+  main {
+    display: none;
+  }
   .content {
     height: 85vh;
     display: flex;
